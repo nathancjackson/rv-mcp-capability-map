@@ -1,0 +1,6 @@
+build-site.js
+extract.py
+verify.js
+tools.json
+.playwright-mcp/
+node_modules/
