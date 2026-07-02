@@ -1,9 +1,15 @@
 build-site.js
 extract.py
+extract-openapi.js
+match.js
 verify.js
 tools.json
 commits.json
 prs.json
+openapi.json
+ops.json
+apiops.json
+docs.html
 *.jpg
 *.png
 .playwright-mcp/
