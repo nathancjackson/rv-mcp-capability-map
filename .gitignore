@@ -14,3 +14,7 @@ docs.html
 *.png
 .playwright-mcp/
 node_modules/
+.env
+content.hash
+report-data.json
+_worker.js
